@@ -1,4 +1,4 @@
-package Vector;
+package slide3;
 
 import java.util.Scanner;
 
